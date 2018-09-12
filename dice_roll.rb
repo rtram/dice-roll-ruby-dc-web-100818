@@ -4,5 +4,5 @@
 
 def roll
   array = [1..6]
-  rand(array)
+  array[rand]
 end
